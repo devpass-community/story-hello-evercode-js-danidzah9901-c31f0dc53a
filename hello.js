@@ -1,5 +1,5 @@
-function hello(str) {
-    // Add your solution here!
+function hello(world) {
+    return "Hello, " + world + "!";
 };
 
 module.exports = hello;
